@@ -2,7 +2,8 @@
 
 There are some projects designed as the crypt_lesson homework.
 
-## H1:SM3-length expansion attack
+## H1:SM3-length expansion attack  [done]
+https://github.com/LinusRobot/hash_extender
 
 ## H2:SM4
 ### H2_1 Proof of SM4 reversibility
