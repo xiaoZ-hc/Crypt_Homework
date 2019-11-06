@@ -22,10 +22,10 @@ SBOX to LAT
           LAT[a][b] += a.i ^ b.sbox_val[i]
 ```
 ### 实验结果
-S0 DDT IN Result/Re_ZUC_DDT_S0.xls
-S1 DDT IN Result/Re_ZUC_DDT_S1.xls
-S0 LAT IN Result/Re_ZUC_LAT_S0.xls
-S1 LAT IN Result/Re_ZUC_LAT_S1.xls
+S0 DDT IN Result/Re_ZUC_DDT_S0.xls  
+S1 DDT IN Result/Re_ZUC_DDT_S1.xls  
+S0 LAT IN Result/Re_ZUC_LAT_S0.xls  
+S1 LAT IN Result/Re_ZUC_LAT_S1.xls  
 <br>
 ## H3_2 Answer shy a final key mixing is required by a cipher?
 如果最后不进行一轮mixing,由于S盒已知，Permutation是不安全的，攻击者不需要密钥也能够还原一轮，降低了密码破解的复杂度。
