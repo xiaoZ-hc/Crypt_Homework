@@ -2,7 +2,7 @@
 
 There are some projects designed as the crypt_lesson homework.
 
-## H1:SM3-length expansion attack  [done]
+## H1:SM3-length expansion attack
 https://github.com/LinusRobot/hash_extender
 
 ## H2:SM4
